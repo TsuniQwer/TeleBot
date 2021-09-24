@@ -1,5 +1,5 @@
 
-API_KEY = "1962947484:AAGSDmeYGmmtfUT1tYJZ8_XMUQ_zO3t8WCI"
+API_KEY = "yourAPI"
 checker = 1
 
 
